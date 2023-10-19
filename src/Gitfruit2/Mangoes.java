@@ -4,6 +4,7 @@ public class Mangoes {
 
 	public static void main(String[] args) {
 		System.out.println("Mangooooooos");
+		System.out.println("apple");
 	}
 
 }
